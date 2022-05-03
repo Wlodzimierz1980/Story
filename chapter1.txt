@@ -1,1 +1,2 @@
-zmina w fajli chapter1.txt
+zmina w fajli chapter1.txt   zmina ce zhyttya
+ змынюэмо файл в гілці alien-plot
